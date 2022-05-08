@@ -1,7 +1,17 @@
-# trip
+# Travel with ease.
 
-A new Flutter project.
+Flutter UI Design: **Welcome screen & Home page**.
+![travel with ease](https://user-images.githubusercontent.com/68671238/167319710-e5b64822-a250-4e46-8425-843187f0094f.png)
 
+
+If you like my work, don't hesitate to give a **star** and **support me** to do more, and **thanks**!
+
+- Feel free to [**Subscribe**](https://www.youtube.com/channel/UC2PhG56Owj3JtKBug7zkBWw) to my [**YouTube**](https://www.youtube.com/channel/UC2PhG56Owj3JtKBug7zkBWw) channel to stay updated with more cool tutorials.
+
+### More Flutter tutorials on YouTube!
+**Full Playlist:** https://www.youtube.com/playlist?list=PLjAwYdBbK5TYj8ovS6If97Y_PmPXt_60E
+
+------------------------------
 ## Getting Started
 
 This project is a starting point for a Flutter application.
